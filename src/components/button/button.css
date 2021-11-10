@@ -1,0 +1,13 @@
+.button-style {
+  /* height: 40px;
+  width: 70px; */
+  border: 1px solid #fff;
+  padding: 2rem;
+  border-radius: 10px;
+  transform: scale(1);
+  /* transition: all 100s; */
+}
+.button-style:hover {
+  color: blueviolet;
+  transform: scale(0.98);
+}
